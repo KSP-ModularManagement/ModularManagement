@@ -19,8 +19,12 @@ clean
 cd GameData
 
 zip -r $FILE ./$PACKAGE/* -x ".*"
+zip -r $FILE ./000_KSPe/* -x ".*"
+zip -r $FILE ./ModularManagement/* -x ".*"
+zip -r $FILE ./ModuleManager/* -x ".*"
 zip -r $FILE ./ModuleManagerWatchDog/* -x ".*"
+zip -r $FILE ./000_KSPe.dll
 zip -r $FILE ./666_ModuleManagerWatchDog.dll
-zip -r $FILE ./999_Scale_Redist.dll
+zip -r $FILE ./ModuleManager.dll
 zip -d $FILE "__MACOSX/*" "**/.DS_Store"
 cd $pwd

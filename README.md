@@ -30,15 +30,23 @@ You **will not** be left high and dry while flying your favorites crafts over Ke
 
 #### `KSPe`
 
-*WiP*
+Offer standardised, KSP version abstracted features, utilities and helpers to help the fellow KSP Add'On Author to seamless support past, present and (hopefully) future versions of KSP without needing even a recompile.
+
+Fellow Authors willing to use this library are welcome to read the documentation available [here](https://github.com/net-lisias-ksp/KSPe/wiki).
 
 #### `Module Manager /L`
 
-*WiP*
+ModuleManager is a mod that let you write patches that edit other parts at load time.
+
+This is Lisias' fork for Module Manager, and it's intended to bring functionality and performant improvements to ModuleManager - with great to moderate success being achieved toward these goals (most of the time!), as well others not mentioned here.
+
+Backwards compatibility is guaranteed - including functional bugs on `Module Manager - Forum`. `MM/L`'s patching output will be always the same as `Module Manager - Forum`, salvo new (and optional) features when not present on `Module Manager - Forum`.
 
 #### `Module Manager Watch Dog`
 
-*WiP*
+Module Manager is a Watch Dog to monitor Module Manager, preventing known (and unsolved) bugs on KSP 1.8 and newer that affects it.
+
+Additional services for updating specific DLLs on `GameData.` are now part of the solution, making it useful even for KSP <= 1.7.3 .
 
 
 ## Installation
