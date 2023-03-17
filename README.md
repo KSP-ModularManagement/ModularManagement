@@ -12,7 +12,7 @@ A convenient entry point Package for KSP modding with all batteries included.
 	+ [Project's README](https://github.com/net-lisias-ksp/ModularManagement/blob/master/README.md)
 	+ [Install Instructions](https://github.com/net-lisias-ksp/ModularManagement/blob/master/INSTALL.md)
 * Official Distribution Sites:
-	+ [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/tweakscale-companion)
+	+ [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/modularmanagement)
 	+ [Homepage](http://ksp.lisias.net/add-ons/ModularManagement) on L Aerospace
 	+ [Latest Release](https://github.com/net-lisias-ksp/ModularManagement/releases)
 
@@ -44,9 +44,9 @@ Backwards compatibility is guaranteed - including functional bugs on `Module Man
 
 #### `Module Manager Watch Dog`
 
-Module Manager is a Watch Dog to monitor Module Manager, preventing known (and unsolved) bugs on KSP 1.8 and newer that affects it.
+`MMWD` is a Watch Dog to monitor Module Manager, preventing known (and unsolved) bugs on KSP 1.8 and newer that affects it.
 
-Additional services for updating specific DLLs on `GameData.` are now part of the solution, making it useful even for KSP <= 1.7.3 .
+Additional services for updating specific DLLs on `GameData` are now part of the solution, making it useful even for KSP <= 1.7.3 .
 
 
 ## Installation
