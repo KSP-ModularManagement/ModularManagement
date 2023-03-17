@@ -72,6 +72,11 @@ Be advised that redistribution of derivatives is expressibly forbidden.
 See [NOTICE](./NOTICE) for further copyright and trademarks notices.
 
 
+## Acknowledgments
+
+<a href="https://www.flaticon.com/free-icons/cube" title="cube icons">Cube icons created by Freepik - Flaticon</a>
+
+
 ## References
 
 * KSPe ([LisiasT](https://github.com/Lisias))
