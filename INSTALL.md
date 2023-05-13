@@ -14,9 +14,10 @@ A convenient entry point Package for KSP modding with all batteries included.
 To install, place the `GameData` folder from the package inside your Kerbal Space Program `GameData` folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**:
-	+ Delete `<KSP_ROOT>/GameData/KSPe`
-	+ Delete `<KSP_ROOT>/GameData/ModularManagement`
-	+ Delete `<KSP_ROOT>/GameData/ModularManagementWatchDog`
+	+ Delete `<KSP_ROOT>/GameData/000_KSPe/`
+	+ Delete `<KSP_ROOT>/GameData/ModularManagement/`
+	+ Delete `<KSP_ROOT>/GameData/ModularManagementWatchDog/`
+	+ Delete `<KSP_ROOT>/GameData/000_KSPe.dll`
 * Extract the package's `GameData/` folder into your KSP's as follows:
 	+ `<PACKAGE>/GameData` --> `<KSP_ROOT>/`
 		- Overwrite any preexisting files.
