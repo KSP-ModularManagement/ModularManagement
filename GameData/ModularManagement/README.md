@@ -53,6 +53,11 @@ Additional services for updating specific DLLs on `GameData` are now part of the
 
 Detailed installation instructions are now on its own file (see the [In a Hurry](#in-a-hurry) section) and on the distribution file.
 
+### Notes
+
+* Module Manager /L **does not** replaces Forum Module Manager if it is already installed. If you plan to use MM/L you need to manually remove FMM from your `GameData`.
+* If Forum Module Manager is installed after Module Manager /L is active, The Watch Dog will bark and you will need to remove one of them in order to run KSP.
+
 ### License
 
 * This work is licensed as follows:
