@@ -18,6 +18,7 @@ To install, place the `GameData` folder from the package inside your Kerbal Spac
 	+ Delete `<KSP_ROOT>/GameData/ModularManagement/`
 	+ Delete `<KSP_ROOT>/GameData/ModularManagementWatchDog/`
 	+ Delete `<KSP_ROOT>/GameData/000_KSPe.dll`
+	+ Delete `<KSP_ROOT>/GameData/001_KSPe.dll`
 * Extract the package's `GameData/` folder into your KSP's as follows:
 	+ `<PACKAGE>/GameData` --> `<KSP_ROOT>/`
 		- Overwrite any preexisting files.
@@ -55,6 +56,7 @@ The following file layout must be present after installation (includes the non i
 			ModuleManagerWatchDog.version
 			...
 		000_KSPe.dll
+		001_KSPe.dll
 		666_ModuleManagerWatchDog.dll
 		ModuleManager.dll
 		...
