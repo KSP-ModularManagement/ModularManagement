@@ -4,10 +4,10 @@
 	"DOWNLOAD"	: "https://github.com/net-lisias-ksp/ModularManagement/releases",
 
 	"VERSION":{
-		"MAJOR":2024,
-		"MINOR":01,
-		"PATCH":06,
-		"BUILD":0
+		"MAJOR":2023,
+		"MINOR":11,
+		"PATCH":16,
+		"BUILD":2
 		},
 	"KSP_VERSION_MIN":{
 		"MAJOR":1,

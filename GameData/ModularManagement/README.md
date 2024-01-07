@@ -55,7 +55,8 @@ Detailed installation instructions are now on its own file (see the [In a Hurry]
 
 ### Notes
 
-* Module Manager /L **does not** replaces Forum Module Manager if it is already installed. If you plan to use MM/L you need to manually remove FMM from your `GameData`.
+* Module Manager /L **does not** replaces Forum Module Manager if it is already installed.
+	+ If you plan to use MM/L you need to manually remove FMM from your `GameData` **BEFORE** installing **Modular Management**.
 * If Forum Module Manager is installed after Module Manager /L is active, The Watch Dog will bark and you will need to remove one of them in order to run KSP.
 
 ### License
