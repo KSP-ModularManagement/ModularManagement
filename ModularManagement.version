@@ -1,7 +1,7 @@
 {
 	"NAME"		: "Modular Management",
-	"URL"		: "https://raw.githubusercontent.com/net-lisias-ksp/ModularManagement/master/ModularManagement.version",
-	"DOWNLOAD"	: "https://github.com/net-lisias-ksp/ModularManagement/releases",
+	"URL"		: "https://raw.githubusercontent.com/KSP-ModularManagement/ModularManagement/master/ModularManagement.version",
+	"DOWNLOAD"	: "https://github.com/KSP-ModularManagement/ModularManagement/releases",
 
 	"VERSION":{
 		"MAJOR":2024,
