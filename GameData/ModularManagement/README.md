@@ -5,16 +5,16 @@ A convenient entry point Package for KSP modding with all batteries included.
 
 ## In a Hurry
 
-* [Source](https://github.com/net-lisias-ksp/ModularManagement)
-	+ [Issue Tracker](https://github.com/net-lisias-ksp/ModularManagement/issues)
+* [Source](https://github.com/KSP-ModularManagement/ModularManagement)
+	+ [Issue Tracker](https://github.com/KSP-ModularManagement/ModularManagement/issues)
 * Documentation
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/192216-*)
-	+ [Project's README](https://github.com/net-lisias-ksp/ModularManagement/blob/master/README.md)
-	+ [Install Instructions](https://github.com/net-lisias-ksp/ModularManagement/blob/master/INSTALL.md)
+	+ [Project's README](https://github.com/KSP-ModularManagement/ModularManagement/blob/master/README.md)
+	+ [Install Instructions](https://github.com/KSP-ModularManagement/ModularManagement/blob/master/INSTALL.md)
 * Official Distribution Sites:
 	+ [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/modularmanagement)
 	+ [Homepage](http://ksp.lisias.net/add-ons/ModularManagement) on L Aerospace
-	+ [Latest Release](https://github.com/net-lisias-ksp/ModularManagement/releases)
+	+ [Latest Release](https://github.com/KSP-ModularManagement/ModularManagement/releases)
 
 
 ## Description
@@ -32,7 +32,7 @@ You **will not** be left high and dry while flying your favorites crafts over Ke
 
 Offer standardised, KSP version abstracted features, utilities and helpers to help the fellow KSP Add'On Author to seamless support past, present and (hopefully) future versions of KSP without needing even a recompile.
 
-Fellow Authors willing to use this library are welcome to read the documentation available [here](https://github.com/net-lisias-ksp/KSPe/wiki).
+Fellow Authors willing to use this library are welcome to read the documentation available [here](https://github.com/KSP-ModularManagement/KSPe/wiki).
 
 #### `Module Manager /L`
 
@@ -86,8 +86,8 @@ See [NOTICE](./NOTICE) for further copyright and trademarks notices.
 ## References
 
 * KSPe ([LisiasT](https://github.com/Lisias))
-	+ [GitHub](https://github.com/net-lisias-ksp/KSPe).
+	+ [GitHub](https://github.com/KSP-ModularManagement/KSPe).
 * ModuleManager /L ([LisiasT](https://github.com/Lisias))
-	+ [GitHub](https://github.com/net-lisias-ksp/ModuleManager).
+	+ [GitHub](https://github.com/KSP-ModularManagement/ModuleManager).
 * Module Manager Watch Dog ([LisiasT](https://github.com/Lisias))
-	+ [GitHub](https://github.com/net-lisias-ksp/ModuleManagerWatchDog).
+	+ [GitHub](https://github.com/KSP-ModularManagement/ModuleManagerWatchDog).
