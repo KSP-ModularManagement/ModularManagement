@@ -1,5 +1,10 @@
 # KSP Enhanced /L :: Change Log
 
+* 2024-0803: 2.5.4.3 (Lisias) for KSP >= 1.2
+	+ Fix a stupid mistake on handling `Regex` on Windows pathnames.
+		- Embarrassing... :(
+* 2024-0505: 2.5.4.2 (Lisias) for KSP >= 1.2
+	+ I **Finally** remembered to activate `richText` on the dialogs boxes! #facePalm
 * 2024-0428: 2.5.4.1 (Lisias) for KSP >= 1.2
 	+ We have moved!
 		- The Official Repository is now on https://github.com/KSP-ModularManagement/KSPe
@@ -13,7 +18,7 @@
 		- [#65](https://github.com/KSP-ModularManagement/KSPe/issues/65) Instrument the KSPe Install Checker to detect when the user deleted the Add'On Directory and kill yourself from `GameData` .
 		- [#56](https://github.com/KSP-ModularManagement/KSPe/issues/56) KSP **should not** be run as Privileged User (Administrator on Windows, root on UNIX) .
 * 2024-0107: 2.5.3.7 (Lisias) for KSP >= 1.2
-	+ Fixes a regression due a badly executed job on [issue #63](https://github.com/KSP-ModularManagement/KSPe/issues/63).	 
+	+ Fixes a regression due a badly executed job on [issue #63](https://github.com/KSP-ModularManagement/KSPe/issues/63)
 	+ Reworks issues:
 		- [#63](https://github.com/KSP-ModularManagement/KSPe/issues/63) KSPe.External.AddOnVersionChecker method `LoadFrom(string)` royally screwed the `LoadFrom(string, string =null)` .
 * 2024-0106: 2.5.3.6 (Lisias) for KSP >= 1.2
