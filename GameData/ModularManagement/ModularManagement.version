@@ -4,10 +4,10 @@
 	"DOWNLOAD"	: "https://github.com/KSP-ModularManagement/ModularManagement/releases",
 
 	"VERSION":{
-		"MAJOR":2024,
-		"MINOR":04,
-		"PATCH":24,
-		"BUILD":3
+		"MAJOR":2025,
+		"MINOR":02,
+		"PATCH":07,
+		"BUILD":0
 		},
 	"KSP_VERSION_MIN":{
 		"MAJOR":1,
